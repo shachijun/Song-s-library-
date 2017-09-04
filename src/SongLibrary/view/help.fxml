@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---Authors: Chijun Sha and William Chen -->
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<VBox prefHeight="359.0" prefWidth="530.0" xmlns="http://javafx.com/javafx/8.0.111">
+   <!---<MenuBar prefHeight="29.0" prefWidth="600.0">
+      <VBox.margin>
+         <Insets/>
+      </VBox.margin>
+      <Menu mnemonicParsing="false" text="Help"/>
+   </MenuBar>-->
+
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="This program is designed by Chijun Sha and William Chen.">
+      <VBox.margin>
+         <Insets left="20.0" top="10.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0"
+         text="This Help method will help you get a sense for how to use this Application.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Button Add:">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Input the Song's name, artist, album and year.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Then click Add to add on the list.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0"
+         text="Note: Cannot be duplicate for the song already on the list that have the same name, artist, album and year."
+         wrappingWidth="529.41259765625">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Button Delete:">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="For the song that already on the list, to remove.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Note: Cannot remove twice.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Button Update:">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="To update the song on the list.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Use mouse to click the Song that you want to update.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="The information of the song will show on as input spot.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+   <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Modify the information and then click &quot;Update&quot;.">
+      <VBox.margin>
+         <Insets left="20.0"/>
+      </VBox.margin>
+   </Text>
+</VBox>
